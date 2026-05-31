@@ -264,7 +264,7 @@ That opt-in is meant for trusted operator-controlled workflows only.
 ## Citation
 If you use this tool, please cite our paper:
 
-```
+```bibtex
 @misc{liu2026synthesizingmultiagentharnessesvulnerability,
       title={Synthesizing Multi-Agent Harnesses for Vulnerability Discovery}, 
       author={Hanzhi Liu and Chaofan Shou and Xiaonan Liu and Hongbo Wen and Yanju Chen and Ryan Jingyang Fang and Yu Feng},
